@@ -1,2 +1,2 @@
-# Calculagor_using_python
-This the simple calculator which develop  by using python programming language.
+#Calculagor_Using_Python
+This is a simple calculator which was developed using the Python programming language.
